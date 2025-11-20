@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Prompt Master",
+  "description": "A gamified AI prompting curriculum and challenge platform. Master the art of prompt engineering through RPG-style progression.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
